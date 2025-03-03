@@ -1,7 +1,3 @@
-以下为翻译后的简体中文内容（包含已翻译的标题及相应的目录）。如有需要，可根据具体要求对目录进行微调或增补。
-
---------------------------------------------------------------------------------
-
 # CAPTCHA 解码器
 
 [![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/)
