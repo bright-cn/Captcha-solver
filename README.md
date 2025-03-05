@@ -1,6 +1,6 @@
 # CAPTCHA 解码器
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/)
+[![Promo](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/)
 
 使用 [Bright Data 的 CAPTCHA 解码器](https://www.bright.cn/products/web-unlocker/captcha-solver) 轻松解决包括 reCAPTCHA、hCaptcha、PX Captcha、GeeTest 等在内的各种 CAPTCHA，提供用户模拟、指纹管理以及强大的代理服务器基础设施。  
 我们的 CAPTCHA 解码器是内置于 [抓取浏览器](https://www.bright.cn/products/scraping-browser) 和 [Web Unlocker](https://www.bright.cn/products/web-unlocker) 的默认功能。
